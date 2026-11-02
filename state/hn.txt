@@ -230,9 +230,7 @@ Already taken
 Already taken
 
 2/ 210	Single, balcony	Inner courtyard	27.22	520.50	
-Soon available
-2027-04-01
-Apply now
+Already taken
 
 2/ 211	Single, balcony	Inner courtyard	27.23	520.50	
 Already taken
@@ -413,9 +411,7 @@ Soon available
 Apply now
 
 3/ 328	Single, balcony	Wilhelmstraße	25.82	505.50	
-Soon available
-2027-04-01
-Apply now
+Already taken
 
 3/ 329	Single, balcony	Wilhelmstraße	25.83	505.50	
 Already taken
@@ -513,9 +509,7 @@ Soon available
 Apply now
 
 4/ 416	Partner, balcony	Wilhelmstraße	44.36	755.50	
-Soon available
-2027-04-01
-Apply now
+Already taken
 
 4/ 417	Single, balcony, limited furnishing	Wilhelmstraße	24.82	475.50	
 Soon available
