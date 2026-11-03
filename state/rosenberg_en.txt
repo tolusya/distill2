@@ -1,0 +1,27 @@
+Unit
+Object type
+Floor
+Area living space
+Rental price flatrate
+Availability
+
+Unit
+Object type
+Floor
+Area living space
+Rental price flatrate
+Availability
+E 105
+Studio mit Balkon
+OG 1
+35,64 m²
+1.020,00 €
+Available 01.03.2027
+Apply now
+
+Unit
+Object type
+Floor
+Area living space
+Rental price flatrate
+Availability
