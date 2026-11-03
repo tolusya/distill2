@@ -28,6 +28,16 @@ def make_diff(old, new):
     return diff
 
 
+def added_lines(old, new, ignore):
+    lines = []
+    for line in difflib.unified_diff(old.splitlines(), new.splitlines(), lineterm="", n=0):
+        if line.startswith("+") and not line.startswith("+++"):
+            text = line[1:].strip()
+            if text and text not in ignore:
+                lines.append(text)
+    return lines
+
+
 def check_site(site):
     name = site["name"]
     state_file = STATE_DIR / f"{name}.txt"
@@ -41,6 +51,11 @@ def check_site(site):
     old_text = state_file.read_text(encoding="utf-8")
     if new_text == old_text:
         print(f"[{name}] без изменений")
+        return
+
+    if not added_lines(old_text, new_text, site.get("ignore_added", [])):
+        state_file.write_text(new_text, encoding="utf-8")
+        print(f"[{name}] только пропажи, без уведомления")
         return
 
     header = f"🔔 {name}: изменения"
