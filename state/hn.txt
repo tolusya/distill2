@@ -54,7 +54,9 @@ Already taken
 Already taken
 
 0/ 047	Single, balcony	Südstraße	25.06	500.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 0/ 049	Single, balcony	Südstraße	25.21	500.50	
 Already taken
@@ -75,7 +77,9 @@ Already taken
 Already taken
 
 1/ 106	Single, balcony	Inner courtyard	27.19	520.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 1/ 107	Single, balcony	Inner courtyard	27.20	520.50	
 Already taken
@@ -123,7 +127,9 @@ Already taken
 Already taken
 
 1/ 123	Single, balcony	Wilhelmstraße	27.28	520.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 1/ 124	Single, balcony	Wilhelmstraße	27.19	520.50	
 Already taken
@@ -144,7 +150,9 @@ Already taken
 Already taken
 
 1/ 130	Single, balcony	Wilhelmstraße	25.83	505.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 1/ 131	Single, balcony	Wilhelmstraße	26.01	505.50	
 Already taken
@@ -204,7 +212,9 @@ Already taken
 Already taken
 
 2/ 206	Single, balcony	Inner courtyard	27.22	520.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 2/ 207	Single, balcony	Inner courtyard	27.22	520.50	
 Already taken
@@ -237,7 +247,9 @@ Already taken
 Already taken
 
 2/ 217	Single, balcony	Wilhelmstraße	27.19	520.50	
-Already taken
+Soon available
+2026-12-01
+Apply now
 
 2/ 218	Single, balcony	Wilhelmstraße	27.1	520.50	
 Already taken
@@ -261,7 +273,9 @@ Already taken
 Already taken
 
 2/ 227	Single, balcony, barrier-free	Wilhelmstraße	31.13	520.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 2/ 228	Single, balcony	Wilhelmstraße	25.83	505.50	
 Already taken
@@ -270,7 +284,9 @@ Already taken
 Already taken
 
 2/ 230	Single, balcony	Wilhelmstraße	25.84	505.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 2/ 231	Single, balcony	Wilhelmstraße	26.02	505.50	
 Already taken
@@ -303,7 +319,9 @@ Already taken
 Already taken
 
 2/ 245	Single, balcony	Südstraße	24.91	500.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 2/ 246	Single, balcony	Südstraße	25.06	500.50	
 Already taken
@@ -327,7 +345,9 @@ Already taken
 Already taken
 
 3/ 305	Single, balcony	Inner courtyard	27.20	520.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 3/ 307	Single, balcony	Inner courtyard	27.2	520.50	
 Already taken
@@ -345,10 +365,14 @@ Already taken
 Already taken
 
 3/ 312	Single, balcony	Inner courtyard	26.84	520.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 3/ 313	Single, balcony	Inner courtyard	25.82	505.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 3/ 314	Single, balcony	Inner courtyard	25.83	505.50	
 Already taken
@@ -378,7 +402,9 @@ Already taken
 Already taken
 
 3/ 327	Single, balcony, barrier-free	Wilhelmstraße	31.12	520.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 3/ 328	Single, balcony	Wilhelmstraße	25.82	505.50	
 Already taken
@@ -480,13 +506,17 @@ Already taken
 Already taken
 
 4/ 417	Single, balcony, limited furnishing	Wilhelmstraße	24.82	475.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 4/ 419	Partner, balcony	Wilhelmstraße	44.45	755.50	
 Already taken
 
 4/ 420	Partner, balcony	Wilhelmstraße	44.51	755.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 4/ 422	Partner, balcony	Wilhelmstraße	47.72	755.50	
 Already taken
@@ -501,7 +531,9 @@ Already taken
 Already taken
 
 4/ 427	Single, no balcony	Wilhelmstraße	20.35	475.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 4/ 428	Single, no balcony	Wilhelmstraße	20.35	475.50	
 Already taken
@@ -545,13 +577,17 @@ Already taken
 Already taken
 
 5/ 505	Single, no balcony	Wilhelmstraße	20.41	475.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 5/ 506	Single, no balcony	Wilhelmstraße	20.35	475.50	
 Already taken
 
 5/ 507	Single, no balcony	Wilhelmstraße	20.35	475.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 5/ 508	Single, balcony	Inner courtyard	24.97	500.50	
 Already taken
@@ -569,13 +605,19 @@ Already taken
 Already taken
 
 5/ 514	Single, balcony	Südstraße	25.06	500.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 5/ 515	Single, balcony	Südstraße	25.06	500.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 5/ 516	Single, balcony	Südstraße	25.22	500.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 6/ 602	Single, no balcony	Wilhelmstraße	20.35	475.50	
 Already taken
@@ -590,7 +632,9 @@ Already taken
 Already taken
 
 6/ 607	Single, balcony	Inner courtyard	25.06	500.50	
-Already taken
+Soon available
+2027-04-01
+Apply now
 
 6/ 608	Single, balcony	Inner courtyard	25.06	500.50	
 Already taken
