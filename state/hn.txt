@@ -54,9 +54,7 @@ Already taken
 Already taken
 
 0/ 047	Single, balcony	Südstraße	25.06	500.50	
-Soon available
-2027-04-01
-Apply now
+Already taken
 
 0/ 049	Single, balcony	Südstraße	25.21	500.50	
 Already taken
@@ -278,9 +276,7 @@ Already taken
 Already taken
 
 2/ 230	Single, balcony	Wilhelmstraße	25.84	505.50	
-Soon available
-2027-04-01
-Apply now
+Already taken
 
 2/ 231	Single, balcony	Wilhelmstraße	26.02	505.50	
 Already taken
